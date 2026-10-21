@@ -1,0 +1,10 @@
+{
+  "mode": "table",
+  "leagues": [
+    "EPL",
+    "La_liga"
+  ],
+  "seasons": [
+    "current"
+  ]
+}

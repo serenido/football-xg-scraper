@@ -1,0 +1,21 @@
+[
+  {
+    "type": "shot",
+    "league": "Premier League (England)",
+    "season": "2026/27",
+    "matchId": "31239",
+    "date": "2026-10-12 19:00:00",
+    "homeTeam": "Coventry",
+    "awayTeam": "Newcastle United",
+    "minute": 5,
+    "team": "Coventry",
+    "player": "Jack Rudoni",
+    "result": "Goal",
+    "isGoal": true,
+    "xG": 0.7612,
+    "x": 0.885,
+    "y": 0.5,
+    "situation": "Penalty",
+    "shotType": "LeftFoot"
+  }
+]
