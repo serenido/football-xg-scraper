@@ -15,5 +15,5 @@ run = client.actor("serenido/football-xg-scraper").call(run_input={
     ]
 })
 
-for item in client.dataset(run["defaultDatasetId"]).iterate_items():
+for item in client.dataset(run.default_dataset_id).iterate_items():
     print(item)
